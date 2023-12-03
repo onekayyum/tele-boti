@@ -5,16 +5,16 @@ import uuid
 from urllib.parse import quote  # Import the quote function for URL encoding
 
 # Replace 'YOUR_TOKEN' with the actual token from BotFather
-TOKEN = '6712317648:AAHLTcfbYhrdcPYt4A6poC6itZWW_5zXTpI'
+TOKEN = 'ccccc'
 
 # Replace 'ADMIN_CHAT_ID' with your admin chat ID
-ADMIN_CHAT_ID = '5447083924'
+ADMIN_CHAT_ID = 'vvvv'
 
 # Replace 'CHANNEL_1_ID' with the ID of Channel 1 (where users need to subscribe)
-CHANNEL_1_ID = '-1002143630143'
+CHANNEL_1_ID = 'ddd'
 
 # Replace 'CHANNEL_2_ID' with the ID of Channel 2 (where new content is uploaded)
-CHANNEL_2_ID = '-1002098991271'
+CHANNEL_2_ID = 'eeeee'
 
 # Dictionary to map content file IDs to content start links
 content_links = {}
